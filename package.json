@@ -1,0 +1,9 @@
+{
+  "name": "UmesIosMathBridge",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "react-native": ">=0.56.0"
+  },
+  "author":"Kliton Bare",
+  "license":"MIT"
+}
