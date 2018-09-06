@@ -4,6 +4,7 @@
   "peerDependencies": {
     "react-native": ">=0.56.0"
   },
+    "main": "IosMathBridgeNativeView.js",
   "author":"Kliton Bare",
   "license":"MIT"
 }
